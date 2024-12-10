@@ -41,3 +41,12 @@ This project builds a **Power BI Sales Dashboard** to analyze store performance 
 📆 **High Sales Months**: **September**, **November**, and **December** see peak sales, indicating strong **seasonal trends** and opportunities for targeted **marketing strategies**.
 
 💰 **Profit Peaks**: **March**, **October**, and **December** are the most **profitable months**, highlighting critical periods for **strategic planning**.
+
+## **Usage:**
+To explore the **Super Store Sales Dashboard** and gain valuable insights into **sales trends**, **regional performance**, and **sales forecasting**:
+1. **Dashboard Screenshot**: Get a quick snapshot of the interactive sales dashboard with key visuals and insights.
+2. **Open the Power BI File**: Dive into the **Power BI file** to explore detailed insights from the **cleaned and processed sales data**.
+3. **Power BI File**: Download and analyze the full **Super Store Sales Dashboard** to explore metrics like **sales by region**, **payment mode**, and **15-day sales forecasting**. <a href="https://github.com/sayaniketsaini24/Super-Store-Sales-Dashboard-using-Power-BI/blob/main/Super%20Store%20Sales%20Dashboard%20Power%20BI.pbix">Clink Here</a>
+
+## **Final Conclusion:**
+The **Super Store Sales Dashboard** offers comprehensive insights into **sales performance**, **customer behavior**, and **regional trends**. By leveraging **Power BI** for advanced data visualization and utilizing **Time Series Analysis**, the project successfully delivers a **15-day sales forecast**, helping businesses make informed decisions. This interactive dashboard empowers stakeholders to track **key metrics**, optimize inventory, and enhance **strategic planning** to boost overall sales and profitability.
