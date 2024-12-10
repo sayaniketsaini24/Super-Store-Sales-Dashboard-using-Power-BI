@@ -24,21 +24,21 @@ This project builds a **Power BI Sales Dashboard** to analyze store performance 
 - **Microsoft Power BI**: Used for **data cleaning**, **pre-processing**, **analysis**, and **visualization** to create interactive dashboards.
 
 ## **Key Insights**
-💳 **Sales by Payment Mode**: **Cash on Delivery (COD)** remains the top choice, with **online transactions** and **card payments** following closely.
+💳 **Sales by Payment Mode:-** **Cash on Delivery (COD)** remains the top choice, with **online transactions** and **card payments** following closely.
 
-🏢 **Sales by Segment**: **Consumer purchases** dominate, ahead of **Corporate** and **Home Office** segments.
+🏢 **Sales by Segment:-** **Consumer purchases** dominate, ahead of **Corporate** and **Home Office** segments.
 
-🌍 **Sales by Region**: The **West region** outperforms all, consistently surpassing the **East**, **Central**, and **South** regions.
+🌍 **Sales by Region:-** The **West region** outperforms all, consistently surpassing the **East**, **Central**, and **South** regions.
 
-🚚 **Sales by Ship Mode**: **Standard Class** is the preferred shipping method, followed by **Second Class**, **First Class**, and **Same Day** deliveries.
+🚚 **Sales by Ship Mode:-** **Standard Class** is the preferred shipping method, followed by **Second Class**, **First Class**, and **Same Day** deliveries.
 
-📦 **Sales by Category**: **Phones**, **Chairs**, and **Binders** lead in sales, reflecting high demand in these categories.
+📦 **Sales by Category:-** **Phones**, **Chairs**, and **Binders** lead in sales, reflecting high demand in these categories.
 
-📚 **Sales by Sub-category**: **Office Supplies**, **Technology**, and **Furniture** display diverse customer preferences, aiding strategic **inventory management**.
+📚 **Sales by Sub-category:-** **Office Supplies**, **Technology**, and **Furniture** display diverse customer preferences, aiding strategic **inventory management**.
 
-📆 **High Sales Months**: **September**, **November**, and **December** see peak sales, indicating strong **seasonal trends** and opportunities for targeted **marketing strategies**.
+📆 **High Sales Months:-** **September**, **November**, and **December** see peak sales, indicating strong **seasonal trends** and opportunities for targeted **marketing strategies**.
 
-💰 **Profit Peaks**: **March**, **October**, and **December** are the most **profitable months**, highlighting critical periods for **strategic planning**.
+💰 **Profit Peaks:-** **March**, **October**, and **December** are the most **profitable months**, highlighting critical periods for **strategic planning**.
 
 ## **Usage:**
 To explore the **Super Store Sales Dashboard** and gain valuable insights into **sales trends**, **regional performance**, and **sales forecasting**:
